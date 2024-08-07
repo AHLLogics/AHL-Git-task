@@ -4,5 +4,5 @@ This repo is part of AHL training program teaching interns how Git and Github wo
    task github2 
     task github2 
      task github2 
-      Conflict Conflict Conflict
+      task Conflict
        task github2 
